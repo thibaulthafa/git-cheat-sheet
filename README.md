@@ -70,3 +70,8 @@ The footer should contain any information about **Breaking Changes** and is also
 The rest of the commit message is then used for this.
 
 A detailed explanation can be found in this [document][commit-message-format].
+
+
+### Gitignore
+
+Gitignore specify rules to avoid files not required in the Git Repo
